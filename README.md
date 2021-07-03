@@ -1,6 +1,6 @@
 # ReactNative_Assignment_2
 
-Stack Navigation
+Tab Navigation and Stack Navigation
 
 Install necessary files
 
